@@ -1,5 +1,5 @@
 for i in range(10):
-    print("hello world")
+    print(i,"\thello world")
 
 n=int(input("Masukkan n : "))
 if (n % 2) == 0:
